@@ -1,0 +1,29 @@
+{
+  "name": "api_productos",
+  "version": "1.0.0",
+  "description": "Api de productos con NodeJS Express JWT Moongose y MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sho220183/API_PRODUCTOS.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sho220183/API_PRODUCTOS/issues"
+  },
+  "homepage": "https://github.com/sho220183/API_PRODUCTOS#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
